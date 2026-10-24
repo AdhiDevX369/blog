@@ -7,7 +7,7 @@ A vintage newspaper-inspired reading room collecting Adithya Bandara’s posts f
 No dependencies or build step required. With Python 3 installed:
 
 ```sh
-python -m http.server 8000 
+python -m http.server 8000
 ```
 
 Open http://localhost:8000.
@@ -29,7 +29,7 @@ The collection is curated, not automatically synchronized. Articles open at the 
 
 ## Deploy
 
-Upload the contents of `` to any static host. All asset links are relative, including for hosting in a subdirectory. For GitHub Pages, use a static-site workflow or publish `` with your preferred deployment tool.
+Upload these files to any static host. All asset links are relative, including for hosting in a subdirectory. For GitHub Pages, use a static-site workflow or publish the repository root with your preferred deployment tool.
 
 ## Accessibility
 
